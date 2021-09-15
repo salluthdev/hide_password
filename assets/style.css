@@ -46,3 +46,7 @@ body
 	transform: translate(0, -50%);
 	cursor: pointer;
 }
+.password_wrap span .fas
+{
+	color: #7a797e;
+}
