@@ -24,4 +24,8 @@ body
 .password_wrap input
 {
 	width: 100%;
+	font-size: 18px;
+	border: none;
+	padding: 10px;
+	border-radius: 4px;
 }
