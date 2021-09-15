@@ -38,3 +38,11 @@ body
 	color: #9a9a9a;
 	font-weight: 400;
 }
+.password_wrap span
+{
+	position: absolute;
+	top: 50%;
+	right: 15px;
+	transform: translate(0, -50%);
+	cursor: pointer;
+}
